@@ -28,7 +28,7 @@ struct ContentView: View {
                 
                 Button("Fun Fact About Me!") {
                     /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
-                    fact = "I'm a figure skater and my favorite color is purple"
+                    fact = "I'm a figure skater and my favorite color is purple" 
                     
                 }
                 
